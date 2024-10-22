@@ -1,10 +1,15 @@
 
-public class calculator
+public class 
+calculator
 {
  public int add(int a,int b)
  {
 int c=a+b;
 return c;
+ }
+  public int square(int x)
+ {
+int z=x*x;
  }
 public static void main(String args[])
 {
